@@ -1,0 +1,15 @@
+.link-underline-hover:hover {
+  text-decoration: underline !important;
+}
+
+@media (max-width: 1199.98px) {
+  .login-card {
+    position: static !important;
+    transform: none !important;
+    margin-bottom: 0 !important;
+  }
+
+  .details {
+    width: 100% !important;
+  }
+}
