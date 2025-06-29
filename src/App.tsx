@@ -10,7 +10,7 @@ const App: React.FC<AppProps> = () => {
       <div className="container relative d-flex flex-column align-items-center justify-content-center min-vh-100">
         <div className="w-100 d-flex align-items-start">
           <img
-            src="./src/assets/logo.png"
+            src="./logo.png"
             alt="aosphere logo"
             className="logo mb-3"
             style={{ maxWidth: '140px', height: 'auto' }}
